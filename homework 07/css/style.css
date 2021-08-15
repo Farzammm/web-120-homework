@@ -1,0 +1,91 @@
+.bg1 {
+    background-color: #1c3652;
+}
+#logo {
+    width: 90px; height: 90px;
+}
+h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 60px;
+    color: #f4f2ed;
+}
+.text {
+    text-align: center;
+}
+.tcolor {
+    color: #af9152;
+    text-align: center;
+}
+header h2 {
+    color: #c4d2e0;
+    font-size: 30px;
+}
+header p {
+    font-size: 20px;
+}
+.font {
+    font-family: Arial, Helvetica, sans-serif;
+}
+.fsize {
+    font-size: 20px;
+}
+.color {
+    color: #f4f2ed;
+}
+header a {
+    color: #f4f2ed;
+}
+.bg2 {
+    background-color: #ecf1f7;
+    font-size: 20px;
+    color:  #3a3a3a;
+}
+article h2.text {
+    font-size: 30px;
+}
+main img {
+    width: 300px; height: 200px;
+}
+.bg3 {
+    background-color: #eae7dd;
+}
+main p {
+    font-size: 20px;
+}
+.bg4 {
+    background-color: #f4f2ed;
+}
+h3.tcolor {
+    font-size: 40px;
+    color: #b26200;
+}
+button {
+    background-color: #253e59;
+    color: #f4f2ed;
+    font-size: 17px;
+
+}
+footer a {
+    color: #f4f2ed;
+}
+footer p {
+    font-size: 20px;
+}
+.fonts {
+    font-size: 30px;
+}
+.hcolor {
+    background-color: #907300;
+}
+tbody th {
+    text-align: left;
+}
+.bg5 {
+    background-color: #c4d2e0;
+}
+span {
+    font-size: 20px;
+}
+article.bg5 ul {
+    font-size: 18px;
+}
