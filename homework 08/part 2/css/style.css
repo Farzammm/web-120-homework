@@ -1,0 +1,23 @@
+.marg {
+    margin: 50px 300px;
+    width: 700px;
+    height: 252px;
+    border: 7px solid #424040;  
+}
+
+.bg {
+    background-color: #c74c2d;
+}
+
+.bg1 {
+    background: url(../image/sm_nyc_banner.jpg) no-repeat center/cover;
+}
+
+.bg2 {
+    background: url(../image/featured.png) no-repeat top left , url(../image/sm_nyc_banner.jpg)no-repeat center/cover;
+}
+
+.bg3 {
+    background: url(../image/featured.png) no-repeat top left , url(../image/new.png) no-repeat TOP right, url(../image/sm_nyc_banner.jpg) no-repeat center/cover;
+}
+

@@ -1,0 +1,20 @@
+table {
+    border-collapse: collapse;
+    font-family: consolas;
+    width: 1800px;
+    height: 500px;
+    text-align: left;
+    margin: 20px 0px 0px 20px;
+}
+thead {
+    background-color: #4c9700;
+    color: #fff;
+}
+th , td {
+   padding: 10px;
+   font-size: 25px;
+   border: 0.5px solid #dedede;
+}
+tbody tr:nth-child(2n+1) {
+    background-color: #f3f3f3;
+}
