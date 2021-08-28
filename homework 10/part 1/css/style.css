@@ -1,0 +1,57 @@
+* {
+    padding: 0;
+    margin: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    width: 960px;
+    margin:0 auto;
+    background-color: #808080;
+    margin-top: 20px;
+}
+
+.container::after {
+    content: '';
+    display: block;
+    clear: both;
+}
+
+.bg {
+    width: 150px;
+    height: 100px;
+    float: left;
+    margin: 40px 30px 40px 55px;
+}
+
+.bg0 {
+    width: 150px;
+    height: 200px;
+    float: left;
+    margin: 40px 30px 40px 55px;
+}
+
+.bg1 {
+    background-color:#ff0000 ;
+}
+
+.bg2 {
+    background-color:#0000ff ;
+}
+
+.bg3 {
+    background-color:#ffff00 ;
+}
+
+.bg4 {
+    background-color:#ff0000 ;
+}
+
+.bg5 {
+    background-color:#0000ff ;
+}
+
+.bg6 {
+    background-color:#ffff00 ;
+}
